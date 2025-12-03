@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dipen
 - 👀 I’m interested in everything..
-- 🌱 I’m currently learning Python,JS, and Responsive Design
+- 🌱 I’m a computer science student.  I am learning software engineering and AI engineering. 
+ 
 
 
 <!---
